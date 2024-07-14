@@ -6,7 +6,7 @@ This project aims to create a pixel-perfect replica of the Telegram messaging ap
 
 ## Live Link
 
-- [Telegram Replica]()
+- [Telegram Replica](https://telegram-replica-nine.vercel.app/)
 
 ## Features
 
